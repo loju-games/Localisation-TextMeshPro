@@ -1,0 +1,22 @@
+{
+  "name": "com.lojugames.localisation.tmp",
+  "version": "1.0.0",
+  "displayName": "Loju Localisation TextMesh Pro",
+  "description": "Extension adding support for TextMesh Pro with the localisation package",
+  "unity": "2018.3",
+  "dependencies": {
+      "com.lojugames.common" : "1.0.0",
+      "com.lojugames.localisation" : "1.0.0"
+  },
+ "keywords": [
+    "Loju",
+    "Localisation",
+    "TextMesh Pro",
+    "TMP"
+  ],
+  "author": {
+    "name": "Loju",
+    "email": "hello@loju.co.uk",
+    "url": "https://loju.co.uk"
+  } 
+}

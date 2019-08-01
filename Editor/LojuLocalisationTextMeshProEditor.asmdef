@@ -1,0 +1,15 @@
+{
+    "name": "LojuLocalisationTextMeshProEditor",
+    "references": [
+        "LojuLocalisationTextMeshPro",
+        "LojuLocalisation",
+        "Unity.TextMeshPro",
+        "Loju"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
