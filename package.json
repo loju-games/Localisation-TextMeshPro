@@ -5,8 +5,8 @@
   "description": "Extension adding support for TextMesh Pro with the localisation package",
   "unity": "2018.4",
   "dependencies": {
-      "com.lojugames.common" : "https://github.com/loju-games/Common.git",
-      "com.lojugames.localisation" : "https://github.com/loju-games/Localisation.git",
+      "com.lojugames.common" : "1.0.0",
+      "com.lojugames.localisation" : "1.0.0",
       "com.unity.textmeshpro" : "1.4.1"
   },
  "keywords": [
