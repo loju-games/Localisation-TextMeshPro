@@ -1,0 +1,16 @@
+{
+    "name": "Loju.Localisation.TextMeshPro",
+    "references": [
+        "Loju",
+        "Loju.Localisation",
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
